@@ -1,4 +1,4 @@
-name: Eend-to-end testts
+name: Arii
 on: push
 jobs:
   cypress-run:
