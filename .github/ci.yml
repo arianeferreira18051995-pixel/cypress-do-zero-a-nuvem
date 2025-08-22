@@ -1,4 +1,4 @@
-name: Eend-to-end tests
+name: Eend-to-end testts
 on: push
 jobs:
   cypress-run:
@@ -8,4 +8,4 @@ jobs:
         uses: actions/checkout@v4
       - name: Cypress run
         uses: cypress-io/github-action@v6
-        //comentario
+        
